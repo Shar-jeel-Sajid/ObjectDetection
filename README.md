@@ -1,0 +1,1 @@
+This is an Object Detection Model using yolov8. The file yolov8n.pt contains a model trained using pytorch this model is loaded and using OPENCV a video is loaded and processed through model frame by frame.
